@@ -6,7 +6,7 @@
 - 😄 Pronombres: DMJ
 - ⚡ Fun fact: ...
 
-- 💻 Tech Stack:
+## 💻 Tech Stack:
 
 Windows Terminal PHP PowerShell HTML5 AWS Apache MariaDB MySQL
 
