@@ -6,7 +6,7 @@
 - 💞️ Abierto a todes les que sepan 🖥️🖥️
 - 📫 DM
 - 😄 Pronombres: DMJ
-- ⚡ Fun fact: ...
+- ⚡ Facto: The society...
 
 ## 💻 Tech Stack:
 
