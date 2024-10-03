@@ -1,7 +1,7 @@
 - 👋 Opaaa, Soy @DMJEH
 - 👀 Enfocado a la ciberseguridad
 - 🌱 Actualmente interesado en todo, guiño guiño
-- 💞️ Abierto a todes les que sepan 
+- 💞️ Abierto a todes les que sepan 🖥️🖥️
 - 📫 DM
 - 😄 Pronombres: DMJ
 - ⚡ Fun fact: ...
